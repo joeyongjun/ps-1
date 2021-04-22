@@ -13,34 +13,8 @@ https://user-images.githubusercontent.com/80457065/115669847-b2c17c00-a383-11eb-
 - 안전하게 야외 활동을 해요
 - 야외 활동 안전사고에 대처해요
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joeyongjun/ps-1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+연예인 마동석을 본따 만든 체육 교육용 챗봇입니다.
+챗봇 캐릭터의 이름은 마동산입니다. 마동산이란 마동석 + 산내초를 합쳐서 지은 이름입니다.
+COVID-19로 인해 온라인 수업이 이루어지고 있습니다.
+그 중 체육 수업을 어떻게하면 학생들이 좀 더 재미있게 할 수 있을까 고민하다
+이론적인 부분들을 챗봇 형태로 바꾸면 학생들이 좀 더 재밌게 학습할 수 있지 않을까하는 생각에 만들었습니다.
