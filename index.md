@@ -5,7 +5,8 @@
 # **챗봇**을 활용한 체육수업
 
 ## *마동산*
-https://user-images.githubusercontent.com/80457065/115669847-b2c17c00-a383-11eb-8db9-9c3d5c8800db.jpg
+![마1](https://user-images.githubusercontent.com/80457065/115669847-b2c17c00-a383-11eb-8db9-9c3d5c8800db.jpg)
+
 
 ### 야외 활동
 
