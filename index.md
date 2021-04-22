@@ -2,7 +2,7 @@
 
 동국대학교 AI융합교육대학원 교육용 챗봇 실습입니다.
 
-# 챗봇을 활용한 체육수업
+# **챗봇**을 활용한 체육수업
 
 ## 마동산
 https://user-images.githubusercontent.com/80457065/115669847-b2c17c00-a383-11eb-8db9-9c3d5c8800db.jpg
