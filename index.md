@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## 교육용 챗봇 실습
 
-You can use the [editor on GitHub](https://github.com/joeyongjun/ps-1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+동국대학교 AI융합교육대학원 교육용 챗봇 실습입니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 챗봇을 활용한 체육수업
+##마동산
+###야외 활동
+
+-야외 활동 안전사고를 알아봐요
+-안전하게 야외 활동을 해요
+-야외 활동 안전사고에 대처해요
 
 ### Markdown
 
