@@ -3,7 +3,7 @@
 산내초등학교 6학년 학생들의 온라인 체육수업 공간
 
 # **챗봇**을 활용한 체육수업
-https://user-images.githubusercontent.com/80457065/116189861-8e3f1880-a764-11eb-8357-c9c0ac43e1cf.png
+![제목을 입력해주세요 _001 (8)](https://user-images.githubusercontent.com/80457065/116189861-8e3f1880-a764-11eb-8357-c9c0ac43e1cf.png)
 
 ## *마동산*
 ![마1](https://user-images.githubusercontent.com/80457065/115669847-b2c17c00-a383-11eb-8db9-9c3d5c8800db.jpg)
